@@ -39,15 +39,6 @@ I'm **Daryn**, an IT student just starting out in web development. I'm gradually
   <img src="https://streak-stats.demolab.com/?user=MenGO-Daryn&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenGO-Daryn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-# 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MenGO-Daryn&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
 
 # 💬 Let's Connect
 
